@@ -51,6 +51,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "<Title>"
+  subtitle = "Hello friend 👋, let's focus together for a second."
   imageUrl = "https://w7.pngwing.com/pngs/455/184/png-transparent-brown-ring-circle-icon-painted-orange-circle-watercolor-painting-angle-ink.png"
   imageTitle = "Test"
   imageWidth = 120
