@@ -66,12 +66,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
-
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
+  Title = "Hello Friend"
+  Content = "Hello friend, that's a slippery slope (Mr.Robot ep1.), but let's focus together for a second. This is a blog "
 
   [[params.socialIcons]]
   name = "stackoverflow"
@@ -79,7 +75,7 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/mrki25"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -120,9 +116,3 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 20
-
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
