@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "This is the first post for this blog where i explain my my intentions."
+description: "This is the first post for this blog where i explain my intentions."
 disableShare: false
 hideSummary: false
 searchHidden: true
