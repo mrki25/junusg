@@ -68,15 +68,15 @@ tocopen = false
     [params.homeInfoParams]
     Title = "Hello Friend"
     Content = """
-    Hello friend, that's a slippery slope (Mr. Robot ep1.), but let's focus together for a second. 
+    Hello friend, that's a slippery slope _(Mr. Robot ep1.)_, but let's focus together for a second. 
 
-    Welcome to my little corner of the internet, where I, an amateur IT enthusiast, share my adventures in the world of technology! 
+    Welcome to my little corner of the internet, where I share my adventures in the world of technology! 
 
-    Join me as I dive into the fascinating realm of computers, gadgets, and all things tech-related. 
+    Join me as I dive into the realm of computers, gadgets, and all things tech-related. 
 
-    From troubleshooting tips to exciting discoveries, I'll take you along on my journey as I learn and explore. 
+    I'll take you along on my journey as I learn and explore. 
 
-    Whether you're a seasoned tech wizard or just starting out like me, there's something here for everyone. 
+    There's something here for everyone. 
 
     So grab your virtual toolkit and let's embark on this tech adventure together!
     """
