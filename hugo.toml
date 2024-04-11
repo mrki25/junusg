@@ -51,15 +51,10 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "<Title>"
-  subtitle = "This is subtitle"
-  imageUrl = "<image link>"
-  imageTitle = "<title of image as alt>"
+  imageUrl = "https://w7.pngwing.com/pngs/455/184/png-transparent-brown-ring-circle-icon-painted-orange-circle-watercolor-painting-angle-ink.png"
+  imageTitle = "Test"
   imageWidth = 120
   imageHeight = 120
-
-  [[params.profileMode.buttons]]
-  name = "Github"
-  url = "https://github.com/"
 
   [[params.socialIcons]]
   name = "<platform>"
