@@ -67,8 +67,7 @@ tocopen = false
 
     [params.homeInfoParams]
     Title = "Hello Friend"
-    Content = """
-    Hello friend 👋, 
+    Content = "Hello friend 👋, 
     let's focus together for a second. 
 
     Welcome to my little corner of the internet, 
@@ -77,8 +76,8 @@ tocopen = false
     I'll take you along on my journey as I learn and explore. 
 
     So grab your virtual toolkit 
-    and let's embark on this tech adventure together!
-    """
+    and let's embark on this tech adventure together!"
+
 
   [[params.socialIcons]]
   name = "stackoverflow"
